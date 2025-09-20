@@ -3,3 +3,8 @@ for my personal site where I need to remember to turn on/off "discourage google.
 
 
 It is a WordPress plugin its about 7 lines of code plus comments self contained in 1 php file. enjoy!
+
+
+upload it directly to your plugins dir or put it in a zip and upload via wp-admin
+
+enjoy ! 
